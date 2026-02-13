@@ -1,0 +1,8 @@
+C:\Users\Brayan Rojas\source\repos\ControlLibrosLeídos\ControlLibrosLeídos\bin\Debug\ControlLibrosLeídos.exe.config
+C:\Users\Brayan Rojas\source\repos\ControlLibrosLeídos\ControlLibrosLeídos\bin\Debug\ControlLibrosLeídos.exe
+C:\Users\Brayan Rojas\source\repos\ControlLibrosLeídos\ControlLibrosLeídos\bin\Debug\ControlLibrosLeídos.pdb
+C:\Users\Brayan Rojas\source\repos\ControlLibrosLeídos\ControlLibrosLeídos\obj\Debug\ControlLibrosLeídos.csproj.AssemblyReference.cache
+C:\Users\Brayan Rojas\source\repos\ControlLibrosLeídos\ControlLibrosLeídos\obj\Debug\ControlLibrosLeídos.csproj.CoreCompileInputs.cache
+C:\Users\Brayan Rojas\source\repos\ControlLibrosLeídos\ControlLibrosLeídos\obj\Debug\ControlLibrosLeídos.exe
+C:\Users\Brayan Rojas\source\repos\ControlLibrosLeídos\ControlLibrosLeídos\obj\Debug\ControlLibrosLeídos.pdb
+C:\Users\Brayan Rojas\source\repos\ControlLibrosLeídos\ControlLibrosLeídos\obj\Debug\ControlLibrosLeídos.exe.config
